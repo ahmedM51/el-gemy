@@ -1,0 +1,6 @@
+{
+  "name": "El Gemy Barber Lounge",
+  "description": "منصة إدارة وصالون حلاقة رجالي متكامل فندقي متعدد الفروع - الجيمي صالون في الدقهلية (منية النصر) وحجز المواعيد إلكترونياً",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
